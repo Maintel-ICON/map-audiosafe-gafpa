@@ -14,6 +14,12 @@ header {
     text-align: center;
 }
 
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: white;
+}
+
 header img {
     max-height: 80px;
 }
