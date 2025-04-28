@@ -1,5 +1,9 @@
-There are two parts to this project.
+# Project Overview
 
-1. The installation wizard which is found in the folder 'wizard'. This is the URL that is set in the Client App configuration
+This project hosts the **Premium Application** for the Audiosafe Call Recording solution. The Premium App is the main application users interact with, providing secure, long-term call recording storage in compliance with FCA regulations.
 
-2. The Premium App itself where the wizard will redirect after installation or if it determines that the app is already installed. Found in the folder 'premium-app-sample'.
+## Deployment Details
+
+- The **Premium Application** is deployed as a standalone solution.
+- It is designed to provide the core functionality of the Audiosafe Call Recording system.
+- Users access the Premium App directly, as there is no installation wizard automation included in this deployment.

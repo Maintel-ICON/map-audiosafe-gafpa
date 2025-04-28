@@ -1,0 +1,10 @@
+{
+  "author": "Maintel",
+  "title": "Maintel AudioSafe",
+  "description": "AudioSafe is a secure, cloud-based solution that enables organizations to store, and manage their audio data in a compliant manner. It provides a range of features, including encryption, access controls, and audit trails, to ensure the security and integrity of audio recordings.",
+  "logo_url": "https://maintel.co.uk/wp-content/uploads/2024/10/Maintel-AudioSafe-SVG.svg",
+  "categories": ["app foundry", "productivity"],
+  "tags": ["audiosafe", "callrecordings", "compliance", "data retention", "data security"],
+  "apis": ["platform"],
+  "sdks": ["javascript"]
+}
