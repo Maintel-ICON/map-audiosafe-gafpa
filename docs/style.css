@@ -56,3 +56,11 @@ ul {
 .cta a:hover {
     background-color: #0056b3;
 }
+
+/* Styling for the application icon */
+.application-logo {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 50px;
+    height: auto;
+}
