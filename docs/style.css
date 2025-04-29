@@ -11,7 +11,7 @@ header {
     /* Maintel blue? Adjust if needed */
     color: white;
     padding: 1rem;
-    text-align: center;
+    text-align: centre;
 }
 
 header h1 {
@@ -47,7 +47,7 @@ ul {
 
 .cta {
     margin-bottom: 2rem;
-    text-align: center;
+    text-align: centre;
     display: flex;
     gap: 2rem;
 }

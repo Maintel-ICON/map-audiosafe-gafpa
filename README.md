@@ -2,7 +2,7 @@
 
 This repository contains the static application pages required for the Maintel Audiosafe product listing on the Genesys AppFoundry.
 
-Audiosafe, powered by the Maintel Application Platform (MAP), provides secure, long-term call recording storage and archiving, helping organizations meet FCA and GDPR compliance requirements while ensuring easy access to their recordings.
+Audiosafe, powered by the Maintel Application Platform (MAP), provides secure, long-term call recording storage and archiving, helping organisations meet FCA and GDPR compliance requirements while ensuring easy access to their recordings.
 
 ## 📄 Repository Structure
 
@@ -24,7 +24,7 @@ The site is hosted using **GitHub Pages** and serves as the publicly accessible 
 
 ## 🛡️ About Audiosafe
 
-Audiosafe automatically exports and archives call recordings and metadata from supported contact center platforms (such as Genesys Cloud) to secure AWS storage. It provides:
+Audiosafe automatically exports and archives call recordings and metadata from supported contact centre platforms (such as Genesys Cloud) to secure AWS storage. It provides:
 
 - FCA and GDPR-compliant long-term storage
 - Search and filter capabilities
@@ -43,6 +43,6 @@ For more information about Audiosafe or Maintel’s services:
 
 ---
 
-Maintel delivers cloud-based contact center solutions and applications that unify, personalize, and enhance customer experiences.
+Maintel delivers cloud-based contact centre solutions and applications that unify, personalise, and enhance customer experiences.
 
 > Solid solutions for a dynamic world.
