@@ -46,8 +46,10 @@ ul {
 }
 
 .cta {
-    margin-top: 2rem;
+    margin-bottom: 2rem;
     text-align: center;
+    display: flex;
+    gap: 2rem;
 }
 
 .cta a {
@@ -57,6 +59,7 @@ ul {
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
+    flex: 1;
 }
 
 .cta a:hover {
